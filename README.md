@@ -2,6 +2,12 @@
 <h1 align="center">Hello World 👋, I'm Shashini</h1>
 <h3 align="center"></h3>
 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shashinigamage&label=Profile%20views&color=0e75b6&style=flat" alt="shashinigamage" /> </p>
 
 <h3 align="left">Connect with me:</h3>
