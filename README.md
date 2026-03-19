@@ -3,9 +3,7 @@
 <h3 align="center"></h3>  
 
 
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/ShashiniGamage/ShashiniGamage/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
-</div>
+  
 
 
 
