@@ -11,8 +11,9 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShashiniGamage/ShashiniGamage/output/github-snake.svg" alt="Shashini snake animation" />
+  <img src="https://raw.githubusercontent.com/ShashiniGamage/ShashiniGamage/output/github-snake-dark.svg" alt="Shashini snake animation dark" />
 </div>
+
 
 
 
