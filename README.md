@@ -5,12 +5,6 @@
 
   <!-- Snake Animation -->
 <div align="center">
-    
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
-</div>
-
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/ShashiniGamage/ShashiniGamage/output/github-snake-dark.svg" alt="Shashini snake animation dark" />
 </div>
 
