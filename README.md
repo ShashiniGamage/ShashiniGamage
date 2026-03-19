@@ -10,6 +10,11 @@
 </div>
 
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ShashiniGamage/ShashiniGamage/output/github-snake.svg" alt="Shashini snake animation" />
+</div>
+
+
 
   
 
