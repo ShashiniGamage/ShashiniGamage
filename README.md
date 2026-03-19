@@ -1,5 +1,4 @@
 ## Hello World,I'm Shashini!👋
-🔗 <a href="https://linkedin.com/in/shashini-gamage">in/shashini-gamage</a>
 
 <!--
 **ShashiniGamage/ShashiniGamage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
