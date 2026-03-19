@@ -1,6 +1,13 @@
 
 <h1 align="center">Hello World 👋, I'm Shashini</h1>
-<h3 align="center"></h3>
+<h3 align="center"></h3>  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShashiniGamage/ShashiniGamage/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShashiniGamage/ShashiniGamage/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShashiniGamage/ShashiniGamage/output/github-contribution-grid-snake.svg">
+</picture>
+
+ 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shashinigamage&label=Profile%20views&color=0e75b6&style=flat" alt="shashinigamage" /> </p>
 
