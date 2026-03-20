@@ -26,37 +26,6 @@
 
 
 
-
-[![ShashiniGamage's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShashiniGamage &theme=tokyonight)](https://git.io/praveenscience)
-
-| ![ShashiniGamage 's github stats](https://github-readme-stats.vercel.app/api?username=ShashiniGamage &show_icons=true&theme=tokyonight)
-
- | ![ShashiniGamage  GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShashiniGamage &theme=tokyonight) |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ShashiniGamage &show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
