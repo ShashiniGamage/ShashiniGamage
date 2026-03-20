@@ -27,9 +27,11 @@
 
 
 
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
+[![ShashiniGamage's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShashiniGamage &theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| ![ShashiniGamage 's github stats](https://github-readme-stats.vercel.app/api?username=ShashiniGamage &show_icons=true&theme=tokyonight)
+
+ | ![ShashiniGamage  GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShashiniGamage &theme=tokyonight) |
 
 
 
