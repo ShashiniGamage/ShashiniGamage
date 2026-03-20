@@ -10,15 +10,6 @@
   <img src="https://raw.githubusercontent.com/ShashiniGamage/ShashiniGamage/output/github-snake-dark.svg" alt="Shashini snake animation dark" />
 </div>
 
-
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ShashiniGamage/ShashiniGamage/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-
-
   
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shashinigamage&label=Profile%20views&color=0e75b6&style=flat" alt="shashinigamage" /> </p>
