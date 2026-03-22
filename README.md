@@ -18,7 +18,7 @@
 
   
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shashinigamage&label=Profile%30views&color=0e75b6&style=flat" alt="shashinigamage" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shashinigamage&label=Profile%20views&color=0e75b6&style=flat" alt="shashinigamage" /> </p>
 
 
 <!-- connect with me
