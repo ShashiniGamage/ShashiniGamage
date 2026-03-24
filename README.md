@@ -20,7 +20,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shashinigamage&label=Profile%20views&color=0e75b6&style=flat" alt="shashinigamage" /> </p>
 
-<h1 align="center">About Me</h1>
+<h2 align="center">About Me</h2>
 <h3 align="center"></h3> 
 
 <!-- RAINBOW LINE TOP 
