@@ -20,14 +20,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shashinigamage&label=Profile%20views&color=0e75b6&style=flat" alt="shashinigamage" /> </p>
 
-
-
-
-
 <h1 align="center">About Me</h1>
 <h3 align="center"></h3> 
-
-
 
 <!-- RAINBOW LINE TOP 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
